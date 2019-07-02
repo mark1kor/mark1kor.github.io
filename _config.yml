@@ -16,7 +16,7 @@ remote_theme : mmistakes/minimal-mistakes
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "en-us kr"
 title                    : "AROUND"
 title_separator          : "-"
 name                     : "백정훈(반달)"
